@@ -1,0 +1,34 @@
+  History of Programming:
+  1) Initially there was only Machine Language(Binary code-> 0/1). It was very hard to understand, prone to errors, tedious and not scalable.
+
+  2) Then came Assembly Language, which used mnemonics to represent machine instructions. It was easier to understand than machine language 
+  but still required a deep understanding of the hardware and was not portable across different platforms.
+  It was very highly tightly coupled. 
+  Example: Mov A, 61H. It was also very prone to error, not scalable(Hardware badla toh code badalna padega).
+
+  3) Then Procedural Programming came into existence. It introduced the concept of functions and procedures, allowing programmers to break down 
+  their code into smaller, reusable pieces. 
+  This made programming easier and more efficient, but it still had limitations in terms of code organization and maintenance.
+  It has introduced everything except OOPs concept. Example: C, Pascal, Fortran, etc.
+
+  4) Finally, Object-Oriented Programming (OOP) was introduced, which focuses on the concept of objects and classes. 
+    OOP allows programmers to create modular, reusable code that is easier to maintain and understand.
+    OOps solved the problem of real world modeling, code reusability, and maintainability. It also introduced the concept of
+ encapsulation, inheritance, and polymorphism, which are fundamental principles of OOP.
+ It also solved the problem of data security, low scalability, and code reusability. It also made it easier to model real-world problems 
+ and create complex software systems.
+
+ OBJECTS: 
+ Objects have characteristics and behaviours. 
+ Example: Car
+ Characteristics of Car: Engine, Brand, Model, Wheels etc
+ Behaviour of Car: start(),stop(),gearShift(),accelerate(),brake()
+
+ CLASS: 
+ Blueprint of object. 
+
+ Pillars Of OOPs:
+ -> Abstraction
+ -> Encapsulation
+ -> inheritance
+ -> Polymorphism
