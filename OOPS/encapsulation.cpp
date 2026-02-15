@@ -94,7 +94,7 @@ class SportsCar{
         currentGear=0;
         cout<<brand<<" "<<model<<" : Engine stopped."<<endl;
       }
-      ~SportsCar() {
+      ~SportsCar() {}
 };
 
 int main()
