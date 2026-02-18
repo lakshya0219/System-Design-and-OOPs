@@ -1,0 +1,10 @@
+Problems if we don't follow SOLID:
+  -> Maintainability (matlab agar hume koi new feature introduce karna hoga toh minimum code changes hone chahiye);
+  ->Readability (Code structure should not be tightly coupled)
+
+S.O.L.I.D Principles:
+S: Single Responsibility Principle
+O: Open Close Principle
+L: Liskov Substitution Principle
+I: Interface Segregation Principle
+D: Dependency Inversion Principle
